@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Nitin Kingar
 
-<!--
-**Kingarnitin/Kingarnitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+
+* Java
+* SQL
+* Data Structures & Algorithms
+* Web Development
+
+🛠 Skills
+
+* Java
+* SQL
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+📚 Education
+
+Bachelor of Engineering (Computer Engineering)
+
+📫 Contact
+
+Email: [nitinkingar2023@gmail.com](mailto:nitinkingar2023@gmail.com)
+
+LinkedIn:
+linkedin.com/in/nitinkingar
+
+GitHub:
+github.com/Kingarnitin
+
+⭐ Goal
+
+To become a skilled Software Engineer and build impactful software solutions.
