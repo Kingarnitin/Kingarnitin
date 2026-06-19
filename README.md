@@ -29,9 +29,9 @@ Bachelor of Engineering (Computer Engineering)
 
 📧 Email: nitinkingar2023@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/nitinkingar
+🔗 LinkedIn: [linkedin.com/in/nitinkingar](https://www.linkedin.com/in/nitinkingar/)
 
-💻 GitHub: github.com/Kingarnitin
+💻 GitHub: [github.com/Kingarnitin](https://github.com/Kingarnitin)
 
 ⭐ Goal
 
